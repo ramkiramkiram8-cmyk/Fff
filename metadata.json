@@ -1,0 +1,6 @@
+{
+  "name": "City Bus Simulator",
+  "description": "Drive, modify, refuel, and service transit buses and cars across a living city with 20 routes, signaling, real-time multiplayer mock, custom controls, and emergency rescue assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
